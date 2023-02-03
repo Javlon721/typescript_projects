@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+// const numbersCollection = new NumbersCollection([1, 3, 5, 0]);
+// numbersCollection.sort();
+// console.log(numbersCollection.data);
+// const charactersCollection = new CharactersCollection("XaayaBA");
+// charactersCollection.sort();
+// console.log(charactersCollection.data);
+// const linkedList = new LinkedList();
+// linkedList.add(100);
+// linkedList.add(-1);
+// linkedList.add(-9);
+// linkedList.add(2);
+// linkedList.sort();
+// linkedList.print();
